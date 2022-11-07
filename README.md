@@ -1,2 +1,3 @@
 # Stok-News-Sentiment-Analysis
-Analyse October Stock News Sentiment 
+Analyse October Stock News Sentiment and scrapping the news from FinViz
+
