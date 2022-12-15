@@ -16,4 +16,4 @@ My analysis have two result, first I analyse words that appear most in every com
 For sentiment analysis itself I'm using vader for each title and averaging it so I can compare every company easily, The table below is the result of Vader sentiment analysis.
 <p align = 'center'><img src = 'https://github.com/Samuel-the-crack/Stock-News-Sentiment-Analysis/blob/main/Picture/table.JPG', width = 500>
 
-The average sentiment of each company is positive, there are only three company that have sentiment above the average (Cisco, Nvidia, and Amazon). Cisco have the best sentiment among the other 6 company meanwhile Google the worst (negative) sentiment among all company. 
+The average sentiment of each company is positive, there are only three company that have sentiment above the average (Cisco, Nvidia, and Amazon). Cisco have the best sentiment among the other 6 company meanwhile Google the worst (negative) sentiment among all company. For complete webscrapping code, analysis code and dataset, you can see it [here](https://github.com/Samuel-the-crack/Stock-News-Sentiment-Analysis).
